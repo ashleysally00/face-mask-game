@@ -3,7 +3,7 @@
 ### by Ashley Rice
 
 
-Play the [Face Mask Game](https://ashleysally00.github.io/FaceMaskGame/) online here!
+Play the [Face Mask Game](https://ashleysally00.github.io/face-mask-game/) online here!
 
 ## Overview
 
