@@ -28,6 +28,10 @@ h2 {
     margin: 0;
 }
 
+h3 {
+    color: white;
+}
+
 #game-container {
     position: absolute;
     top: 0;
