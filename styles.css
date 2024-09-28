@@ -8,6 +8,16 @@ body {
     align-items: center;
 }
 
+h1 {
+    font-size: 48px;
+    margin: 0;
+}
+
+h2 {
+    font-size: 24px;
+    margin-top: 10px;
+}
+
 #game-container {
     position: relative;
     width: 100%;
