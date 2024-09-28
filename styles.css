@@ -9,11 +9,13 @@ body {
 }
 
 h1 {
+    color: white;
     font-size: 48px;
     margin: 0;
 }
 
 h2 {
+    color: white;
     font-size: 24px;
     margin-top: 10px;
 }
