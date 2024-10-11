@@ -4,7 +4,7 @@
 
 I redid the game in an HTML file instead of having a separate file for JavaScript so that you can play it in the browser via GitHub Pages.
 
-[Click here to go to the code.](https://github.com/ashleysally00/FaceMaskGame_for_browser)!
+[Click here to go to the code](https://github.com/ashleysally00/FaceMaskGame_for_browser)!
 
 [Click here to play!](https://ashleysally00.github.io/FaceMaskGame_for_browser/)
 
