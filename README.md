@@ -72,6 +72,14 @@ Contributions to improve the game are welcome. Please feel free to submit a pull
 
 ## License
 
-This code in this project is licensed under the MIT License. See the [LICENSE](https://github.com/ashleysally00/FaceMaskGame/blob/main/License.txt) file for details.
+## Copyright Notice for Character
 
-Please note that the artwork, characters, and other creative assets in this game are not covered by the MIT License and are protected by copyright. If you are interested in using the artwork or assets, please contact me for permission at ashleysally00@gmail.com.
+**Copyright © 2024 Ashley Rice. All rights reserved.**
+
+Please note that the character "Penelope" and all associated designs and representations are original creations of Ashley Rice and may not be used, reproduced, or distributed without explicit written permission.
+
+While the source code in this repository is licensed under open-source terms (see [LICENSE.txt](LICENSE.txt)), this open-source license **does not** extend to artwork, character designs, or other creative assets, which remain fully protected under copyright law.
+
+> For inquiries about usage rights, please contact: ashleysally00@gmail.com
+
+
